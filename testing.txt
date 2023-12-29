@@ -32,4 +32,5 @@ Git commands
 7. Push changes from local machine to repo on github.com
 git push
 
-
+8. Pull - pull the changes from server to local
+git pull
