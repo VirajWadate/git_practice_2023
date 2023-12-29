@@ -1,3 +1,35 @@
-testing
-asdfasdf
-asdfasfd
+GIT
+- Repository: Collection of files and folder == source code
+
+1. Account on github.com
+2. git for windows or git bash
+- sudo apt-get install git # Linux
+
+Git commands
+
+1. Download repository on local machine
+# git clone <repo url>
+# git clone https://github.com/VirajWadate/dec_practice_2023.git
+
+2. To check status
+# git status
+
+3. To check branch 
+# git branch
+
+4. To add file in track list
+# git add <File/FolderName>
+# git add first_program.py
+
+5. Commit the changes - We need to wirte a message what changes we did
+# git commit -m <message>
+# git commit -m "Hello World program"
+
+6. Set email id and user name
+# git config --global user.email "virajwadate@gmail.com"
+# git config --global user.name "VirajWadate"
+
+7. Push changes from local machine to repo on github.com
+git push
+
+
