@@ -34,3 +34,7 @@ git push
 
 8. Pull - pull the changes from server to local
 git pull
+
+9. To check diffrence
+# git diff <file name>
+# git diff testing.txt
